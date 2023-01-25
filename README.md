@@ -27,3 +27,12 @@
 - ✉️  You can contact me at [mikichaoss@gmail.com](mailto:mikichaoss@gmail.com)
 - 🚀  I'm currently working on [Сайт с сложной фронтенд архитектурой](http://github.com/MikiHousse/Resume)
 - 🧠  I'm learning В настоящее время я подтягиваю знания по Redux### Skills
+
+  [![codewars](https://www.codewars.com/users/MikiHousse/badges/small)](https://www.codewars.com/users/MikiHousse)
+
+### Connect with me:
+
+<p align="left">
+<a href="https://t.me/MikiHouseMusic" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="daniilshat" height="40" width="40" /></a>
+<a href="https://vk.com/mikihousemusic" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/vk.svg" alt="daniilshat" height="40" width="40" /></a>
+</p>
