@@ -2,8 +2,7 @@
 
 ## Web Developer
 
-Занимаюсь программированием чуть меньше года
-Мой стэк технологий
+My stack technology
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -22,11 +21,11 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-- 🌍  I'm based in Казань
-- 🖥️  See my portfolio at [Мой сайт с примерами работ здесь](http://github.com/MikiHousse/Resume)
+- 🌍  I'm based in Kazan
+- 🖥️  See my portfolio at [Click](http://github.com/MikiHousse/Resume)
 - ✉️  You can contact me at [mikichaoss@gmail.com](mailto:mikichaoss@gmail.com)
-- 🚀  I'm currently working on [Сайт с сложной фронтенд архитектурой](http://github.com/MikiHousse/Resume)
-- 🧠  I'm learning В настоящее время я подтягиваю знания по Redux### Skills
+- 🚀  I'm currently working on [Also click](http://github.com/MikiHousse/Resume)
+- 🧠  I am currently improving, Redux and TS
 
   [![codewars](https://www.codewars.com/users/MikiHousse/badges/small)](https://www.codewars.com/users/MikiHousse)
 
