@@ -22,7 +22,7 @@ My stack technology
 </p>
 
 - 🌍  I'm based in Kazan
-- 🖥️  See my portfolio at [Click](http://github.com/MikiHousse/Resume)
+- 🖥️  See my portfolio at [Click](https://resume-nu-sage.vercel.app)
 - ✉️  You can contact me at [mikichaoss@gmail.com](mailto:mikichaoss@gmail.com)
 - 🚀  I'm currently working on [Also click](http://github.com/MikiHousse/Resume)
 - 🧠  I am currently improving, Redux and TS
