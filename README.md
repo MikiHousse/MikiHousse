@@ -23,6 +23,7 @@ My stack technology
 - ✉️  You can contact me at [mikichaoss@gmail.com](mailto:mikichaoss@gmail.com)
 - 🚀  I'm currently working on [Also click](https://github.com/MikiHousse/news)
 - 🧠  I am currently improving TS
+- ⚡️  Over 15 pages have been completed
 
   [![codewars](https://www.codewars.com/users/MikiHousse/badges/small)](https://www.codewars.com/users/MikiHousse)
 
