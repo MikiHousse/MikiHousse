@@ -19,13 +19,6 @@ My stack technology
 </p>
 
 - 🌍  I'm based in Kazan
-- 🖥️  See my portfolio at [Click](https://resume-nu-sage.vercel.app)
-- ✉️  You can contact me at [mikichaoss@gmail.com](mailto:mikichaoss@gmail.com)
-- 🚀  I'm currently working on [Also click](https://github.com/MikiHousse/news)
-- 🧠  I am currently improving TS
-- ⚡️ Written over 20 applications using JS or React.
-- ⭐️ Over 15 pages have been completed
-- 😎 And that's just the beginning
 
   [![codewars](https://www.codewars.com/users/MikiHousse/badges/small)](https://www.codewars.com/users/MikiHousse)
 
